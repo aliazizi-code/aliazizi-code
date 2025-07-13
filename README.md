@@ -7,7 +7,7 @@
   <a href="https://instagram.com/ialiazizii" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://t.me/ZEERO_BeatMaker" target="_blank">
+  <a href="https://t.me/ialiazizii" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
   <a href="devaliazizi@gmail.com" target="_blank">
